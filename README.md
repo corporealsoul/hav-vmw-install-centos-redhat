@@ -1,0 +1,1 @@
+# hav-vmw-install-centos-redhat
